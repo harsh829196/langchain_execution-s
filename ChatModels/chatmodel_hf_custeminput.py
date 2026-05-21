@@ -46,3 +46,5 @@ while True:
 
 # there is a problem we dont know that which is user qurey and which is model response so we can give label to the user query and model response in the chat history list so that it will be more clear and we can easily understand the conversation history between user and model. 
 # so we can append the user query to the chat history list with the label "user" and model response with the label "model" so that it will be more clear and we can easily understand the conversation history between user and model.    
+# we will move toweards dynamic msg 
+#we will use chatprompttemplte to create dynamic message and we will use system message to set the context of the conversation.

@@ -24,3 +24,4 @@ model = ChatHuggingFace(llm=llm) ## we are creating an instance of the ChatHuggi
 result = model.invoke(message) ## we are invoking the model with the message which we have created and getting the response from the model.
 message.append(AIMessage(content=result.content)) ## we are appending the model response to the message list with the label "AIMessage" so that it will be more clear and we can easily understand the conversation history between user and model. 
 print(message) ## this will print the response from the model
+#we will interate it on chatbot 
