@@ -1,8 +1,14 @@
 # langchain_execution-s
 
 # LangChain + LLM Learning Journey
-# here activliy updation is going on 
-# for ful details u can visit pertivulat file ,line by line explaination is also there 
+# activliy updation is going on... 
+# for full details u can visit indivisual file ,line by line explaination is also there 
+
+
+**(must visit files -->(pydentic_dempo.py,with_structure_out_json, chat_modlehf.py,with_structureed_output_typed.py))**
+
+
+
 ## Overview
 
 This project contains my learning journey and practical implementation of Large Language Models (LLMs) using LangChain and Hugging Face. The project covers:
